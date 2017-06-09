@@ -1,0 +1,9 @@
+C:\Users\I\Desktop\C#\giftWrappingAlgorithm\giftWrappingAlgorithm\bin\Debug\giftWrappingAlgorithm.exe.config
+C:\Users\I\Desktop\C#\giftWrappingAlgorithm\giftWrappingAlgorithm\bin\Debug\giftWrappingAlgorithm.exe
+C:\Users\I\Desktop\C#\giftWrappingAlgorithm\giftWrappingAlgorithm\bin\Debug\giftWrappingAlgorithm.pdb
+C:\Users\I\Desktop\C#\giftWrappingAlgorithm\giftWrappingAlgorithm\obj\Debug\giftWrappingAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\I\Desktop\C#\giftWrappingAlgorithm\giftWrappingAlgorithm\obj\Debug\giftWrappingAlgorithm.Form1.resources
+C:\Users\I\Desktop\C#\giftWrappingAlgorithm\giftWrappingAlgorithm\obj\Debug\giftWrappingAlgorithm.Properties.Resources.resources
+C:\Users\I\Desktop\C#\giftWrappingAlgorithm\giftWrappingAlgorithm\obj\Debug\giftWrappingAlgorithm.csproj.GenerateResource.Cache
+C:\Users\I\Desktop\C#\giftWrappingAlgorithm\giftWrappingAlgorithm\obj\Debug\giftWrappingAlgorithm.exe
+C:\Users\I\Desktop\C#\giftWrappingAlgorithm\giftWrappingAlgorithm\obj\Debug\giftWrappingAlgorithm.pdb
