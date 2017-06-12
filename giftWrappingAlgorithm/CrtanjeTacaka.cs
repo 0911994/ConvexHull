@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using System.Drawing;
+using System.Windows.Forms;
 
 namespace giftWrappingAlgorithm
 {
@@ -16,7 +17,7 @@ namespace giftWrappingAlgorithm
         public static LinkedList<Point> Calculate(LinkedList<Point> tacke)
         {
             if (tacke.Count < 3)
-                return null;
+           return null;
 
             _tacke = new LinkedList<Point>(tacke);
             konveksniOmotac = new LinkedList<Point>();
@@ -53,8 +54,7 @@ namespace giftWrappingAlgorithm
                 if (node.Value.X < res.Value.X)
                     res = node;
 
-                if (node.Value.X == res.Value.X &&
-                    node.Value.Y < res.Value.Y)
+                if (node.Value.X == res.Value.X && node.Value.Y < res.Value.Y)
                     res = node;
 
                 node = node.Next;

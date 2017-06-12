@@ -72,20 +72,20 @@ namespace giftWrappingAlgorithm
         {
             if (tacke.Count < 3)
                 return;
-
+              
             if (isDrawn)
                 NacrtajTacke();
             else isDrawn = true;
 
-            var hull = giftWrappingAlgorithm.CrtanjeTacaka.Calculate(tacke);
+            var omotac = giftWrappingAlgorithm.CrtanjeTacaka.Calculate(tacke);
 
-            var node = hull.First;
+            var node = omotac.First;
             while (node.Next != null)
             {
                 graphics.DrawLine(linijePen, node.Value, node.Next.Value);
                 node = node.Next;
             }
-            graphics.DrawLine(linijePen, node.Value, hull.First.Value);
+            graphics.DrawLine(linijePen, node.Value, omotac.First.Value);
             pictureBox.Invalidate();
         }
 
